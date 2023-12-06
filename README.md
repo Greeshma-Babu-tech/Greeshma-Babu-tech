@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Greeshma-Babu
+- 👋 Hi, I’m Greeshma-Babu
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me    greeshmababu333@gmail.com
