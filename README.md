@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greeshma! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Enthusiast</a>
+<h1>Hi, I'm Greeshma! <br/><a href="https://github.com/joshmadakor1">Programmer,</a> <a href="https://www.linkedin.com">Cloud Enthusiast</a> <a href="https://www.linkedin.com">and Data Analyst</a>
 
 <h2>📄 Certifications:</h2>
 
@@ -13,14 +13,14 @@
   
 - <b>Python</b>
   
-<h2>Cloud Projects</h2>
+<h2>☁️ Cloud Projects</h2>
 
 - <b>AWS Cloud</b>
   
 - <b>Microsoft Azure </b>
   
 
-<h2>Data Analysis Projects</h2>
+<h2>📈 Data Analysis Projects</h2>
 
 - <b>MS Excel</b>
   
