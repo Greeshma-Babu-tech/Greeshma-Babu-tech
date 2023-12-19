@@ -2,7 +2,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- <b><a href="https://aw.certmetrics.com/amazon/public/verification.aspx">AWS Cloud Practitioner (CLF-C02)</a></b>
+- <b><a href="AWS Certified Cloud Practitioner certificate.pdf">AWS Cloud Practitioner (CLF-C02)</a></b>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
