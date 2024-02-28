@@ -11,7 +11,7 @@
  
 - <b>PowerShell</b>
   
-- <b>Python</b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/Python">Python (CLF-C02)</a></b>
   
 <h2>☁️ Cloud Projects</h2>
 
