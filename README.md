@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greeshma! <br/><a href="https://github.com/joshmadakor1">Programmer,</a> <a href="https://www.linkedin.com">Cloud Enthusiast</a> <a href="https://www.linkedin.com">and Data Analyst</a>
+<h1>Hi, I'm Greeshma! <br/><a href="https://www.linkedin.com/in/greeshma-babu/">Cloud Enthusiast,</a> <a href="https://www.linkedin.com/in/greeshma-babu/">Programmer</a> <a href="https://www.linkedin.com">and Data Analyst</a>
 
 <h2>📄 Certifications:</h2>
 
