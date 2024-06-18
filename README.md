@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greeshma! <br/><a href="https://www.linkedin.com/in/greeshma-babu/">Cloud Enthusiast,</a> <a href="https://www.linkedin.com/in/greeshma-babu/">Programmer</a> <a href="https://www.linkedin.com">and Data Analyst</a>
+<h1>Hi, I'm Greeshma! <br/><a href="https://www.linkedin.com/in/greeshma-babu/">Programmer and a Cloud Enthusiast</a> <a href="https://www.linkedin.com/in/greeshma-babu/"> </a>
 
 <h2>📄 Certifications:</h2>
 
@@ -7,9 +7,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   
-- <b>Java based Web App </b>
- 
-- <b>PowerShell</b>
+- <b>Java </b>
   
 - <b><a href="https://github.com/Greeshma-Babu-tech/Python">Python</a></b>
   
@@ -18,7 +16,6 @@
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS">AWS Cloud</a></b>
   
 - <b>Microsoft Azure </b>
-  
 
 <h2>📈 Data Analysis Projects</h2>
 
@@ -32,8 +29,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt= | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt= | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
