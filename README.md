@@ -7,7 +7,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   
-- <b>Java </b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/Java">Java</a></b>
   
 - <b><a href="https://github.com/Greeshma-Babu-tech/Python">Python</a></b>
   
