@@ -14,7 +14,7 @@
   
 <h2>☁️ AWS Cloud:</h2>
 
-- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/AWS-%20Retrieving%20S3%20bucket%20list.pdf">Retrieving S3 bucket list :</a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/AWS-%20Retrieving%20S3%20bucket%20list.pdf">Retrieving S3 bucket list </a></b>
 
 
 
