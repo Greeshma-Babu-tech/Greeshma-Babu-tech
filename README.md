@@ -5,10 +5,12 @@
 - <b><a href="https://github.com/Greeshma-Babu-tech/Certficates/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">AWS Cloud Practitioner (CLF-C02)</a></b>
 
 <h2>👨‍💻  Java:</h2>
+
 - <b><a href="https://github.com/Greeshma-Babu-tech/Java/tree/main/Calculator">Basic Calculator Using Java </a></b>
 
 
 <h2>👨‍💻 Python:</h2>
+
 - <b><a href="https://github.com/Greeshma-Babu-tech/Python/blob/main/Password%20Strength%20Checker">Password Strength Checker Using Python</a></b>
 
   
