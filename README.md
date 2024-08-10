@@ -16,6 +16,8 @@
   
 <h2>☁️ AWS Cloud:</h2>
 
+- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/tree/main/Hosting%20static%20Website%20using%20Amazone%20S3">Hosting Static Website Using Amazon S3 </a></b>
+
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/AWS-%20Retrieving%20S3%20bucket%20list.pdf">Retrieving S3 bucket list </a></b>
 
 
