@@ -17,11 +17,11 @@
 <h2>☁️ AWS Cloud:</h2>
 
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/tree/main/Hosting%20static%20Website%20using%20Amazone%20S3">Hosting Static Website Using Amazon S3 </a></b>
-
-- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/AWS-%20Retrieving%20S3%20bucket%20list.pdf">Retrieving S3 bucket list </a></b>
-- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/Hosting%20a%20Web%20app%20on%20EC2.pdf">Launch EC2, Install Web Server, and Access via Public IP </a></b>
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/Deploying%20a%20Web%20Application%20on%20AWS%20%20with%20EC2%20and%20Load%20Balancer.pdf">Deploying a Web Application on AWS  with EC2 and Load Balancer
  </a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/AWS-%20Retrieving%20S3%20bucket%20list.pdf">Retrieving S3 bucket list </a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/Hosting%20a%20Web%20app%20on%20EC2.pdf">Launch EC2, Install Web Server, and Access via Public IP </a></b>
+
 
 
 <h2> 🤳 Connect with me:</h2>
