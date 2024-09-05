@@ -15,7 +15,7 @@
 
   
 <h2>☁️ AWS Cloud:</h2>
-<h3>Hands-On Activities</h3>
+<b><h3>Hands-On Activities</h3></b>
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/Hosting%20a%20Web%20app%20on%20EC2.pdf">Launch EC2, Install Web Server, and Access via Public IP </a></b>
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/Deploying%20a%20Web%20Application%20on%20AWS%20%20with%20EC2%20and%20Load%20Balancer.pdf">Deploying a Web Application on AWS  with EC2 and Load Balancer</a></b>
  - <b><a href="https://github.com/Greeshma-Babu tech/AWS/blob/main/Application%20Load%20Balancer%20with%20path%20based%20routing/ALB%20with%20path%20based%20routing.pdf">Application Load Balancer with path based routing
