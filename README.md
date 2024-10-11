@@ -5,7 +5,7 @@
 - <b><a href="https://github.com/Greeshma-Babu-tech/Certficates/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">AWS Cloud Practitioner (CLF-C02)</a></b>
 
 
-<h2>☁️ Amazon Web Services Cloud:</h2>
+<h2>☁️ Amazon Web Services:</h2>
 <b><h3>Hands-On Activities</h3></b>
 
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/Hosting%20a%20Web%20app%20on%20EC2.pdf">Launch EC2, Install Web Server, and Access via Public IP </a></b>
