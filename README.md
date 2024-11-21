@@ -25,7 +25,7 @@
 
   
 <h2>👨‍💻 Terraform:</h2>
-- <b><a href="https://github.com/Greeshma-Babu-tech/Terraform/tree/main/01-VPC%2CSubnet%2C%20Route%20table%20%26EC2">Creating vpc, subnets, Route Table and EC2 Instances</a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/Terraform/tree/main/01-VPC%2CSubnet%2C%20Route%20table%20%26EC2">Creating vpc, subnets, Route Table and EC2 Instances</a></b></br>
 - <b><a href="https://github.com/Greeshma-Babu-tech/Terraform/tree/main/02-Meta-Arguements">Meta Arguements</a></b>
 <h2> 🤳 Connect with me:</h2>
 
