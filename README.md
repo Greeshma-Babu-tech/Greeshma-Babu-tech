@@ -3,6 +3,7 @@
 <h2>📄 Certifications:</h2>
 
 - <b><a href="https://github.com/Greeshma-Babu-tech/Certficates/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">AWS Cloud Practitioner (CLF-C02)</a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/Certficates/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf">AWS Certified Solutions Architect - Associate (SAA-C03)</a></b>
 
 
 <h2>☁️ Amazon Web Services:</h2>
@@ -23,7 +24,9 @@
 - <b><a href="https://github.com/Greeshma-Babu-tech/AWS/blob/main/AWS-%20Retrieving%20S3%20bucket%20list.pdf">Retrieving S3 bucket list Using Boto3 </a></b>
 
   
-
+<h2>👨‍💻 Terraform:</h2>
+- <b><a href="https://github.com/Greeshma-Babu-tech/Terraform/tree/main/01-VPC%2CSubnet%2C%20Route%20table%20%26EC2">Creating vpc, subnets, Route Table and EC2 Instances</a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/Terraform/tree/main/02-Meta-Arguements">Meta Arguements</a></b>
 <h2> 🤳 Connect with me:</h2>
 
 
@@ -34,17 +37,4 @@
 [twitter]: https://twitter.com
 [linkedin]: https://www.linkedin.com/in/greeshma-babu/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
