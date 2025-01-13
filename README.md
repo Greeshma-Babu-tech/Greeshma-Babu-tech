@@ -4,7 +4,7 @@
 
 - <b><a href="https://github.com/Greeshma-Babu-tech/Certficates/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">AWS Cloud Practitioner (CLF-C02)</a></b>
 - <b><a href="https://github.com/Greeshma-Babu-tech/Certficates/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf">AWS Certified Solutions Architect - Associate (SAA-C03)</a></b>
-
+- <b><a href="https://www.credly.com/badges/22e87efd-d789-402b-823b-41a1192ac15d/linked_in?t=souufn">Terraform Associate (003)</a></b>
 
 <h2>☁️ Amazon Web Services:</h2>
 <b><h3>Hands-On Activities</h3></b>
