@@ -1,4 +1,4 @@
-<h1>Greeshma Babu<br/><a href="https://www.linkedin.com/in/greeshma-babu/"></a>AWS DevOps</a> <a href="https://www.linkedin.com/in/greeshma-babu/"> </a>
+<h1>Greeshma Babu<br/><a href="https://www.linkedin.com/in/greeshma-babu/"></a>AWS & DevOps</a> <a href="https://www.linkedin.com/in/greeshma-babu/"> </a>
 
 <h2>📄 Certifications:</h2>
 
