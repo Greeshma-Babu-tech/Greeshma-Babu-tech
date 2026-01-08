@@ -9,6 +9,7 @@
 <h2> Key Projects: </h2>
 
 - <b><a href="https://github.com/Greeshma-Babu-tech/terraform-aws-ecommerce/tree/main">Building a Scalable E-commerce Platform on AWS with Terraform</a></b>
+- <b><a href="https://github.com/Greeshma-Babu-tech/ecommerce-microservice-app/tree/main">Containerized Microservice Application on AWS (EKS)</a></b>
 
 <h2> 🤳 Connect with me:</h2>
 
